@@ -1,4 +1,4 @@
-# Simple Math game about person try to go Hiking
+# Simple Math Game about person try to Go Hiking
 
 ## Category : Game / Prototype Mechanics
 ## Genre    : Point and Click
