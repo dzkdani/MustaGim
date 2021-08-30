@@ -1,5 +1,7 @@
 # Simple Math Game about person try to Go Hiking
 
+download it here: https://play.google.com/store/apps/details?id=com.LFourTech.ExploreMath
+
 ## Category : Game / Prototype Mechanics
 ## Genre    : Point and Click
 ## Platform : Android
